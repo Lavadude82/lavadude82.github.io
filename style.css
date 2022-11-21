@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.nav{
+    position: fixed;
+    width:100%;
+    height:65px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+.nav a{
+    text-align: center;
+    padding: 15px;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
+.nav div input{
+    width: 85.845%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
